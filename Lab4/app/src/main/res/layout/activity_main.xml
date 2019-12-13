@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ca.bart.frgu.democustomview.CustomView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerHorizontal="true"
+    app:color="#0000ff"
+    app:size="100dp"
+    android:id="@+id/customView"
+
+    tools:context=".MainActivity">
+
+</ca.bart.frgu.democustomview.CustomView>
